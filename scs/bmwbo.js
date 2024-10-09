@@ -42,7 +42,7 @@ let infoMsg =  `
 ┇ 『𝐌𝐀𝐈𝐍』
 ┇ 🤖 ʙᴏᴛ ɴᴀᴍᴇ: *ʙᴍᴡ ᴍᴅ*
 ┇ 💢 ᴛʏᴘᴇ: *ᴠ6x*
-┇ 🥷 ᴅᴇᴠ: *sɪʀ ɪʙʀᴀʜɪᴍ*
+┇ 🥷 ᴅᴇᴠ: *AMOTY GT*
 ╰─────═━┈┈━═──━┈⊷
 ╭─────═━┈┈━═──━┈⊷
 ┇ 『𝐒𝐘𝐒𝐓𝐄𝐌』
@@ -59,9 +59,9 @@ let infoMsg =  `
 ╭─────═━┈┈━═──━┈⊷
   『𝐒𝐔𝐏𝐏𝐎𝐑𝐓』
   ♾️ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-  https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+  https://chat.whatsapp.com/JLKT1kQP6rJ61wS4lKEOJw
   ♾️ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ
-  https://t.me/ibrahimtechai
+  https://t.me/amotytech
   ♾️ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ
   https://www.youtube.com/@ibrahimaitech
   ♾️ ɪɴsᴛᴀɢʀᴀᴍ ᴘᴀɢᴇ
@@ -92,7 +92,7 @@ for (const cat in coms) {
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
+©AMOTY GT'S 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄

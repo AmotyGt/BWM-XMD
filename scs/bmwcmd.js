@@ -49,7 +49,7 @@ let menuMsg = `
 > 📅 ᴅᴀᴛᴇ: ${date} 
 
 
-> Made by : ©Ibrahim Adams 
+> Made by : ©AMOTY GT
 `;
 
    var lien = mybotpic();
@@ -124,7 +124,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/ibrahimaitech/BMW-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://chat.whatsapp.com/JLKT1kQP6rJ61wS4lKEOJw
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
